@@ -28,8 +28,8 @@ p {color:#40514E;}
 
 hr{border-style: dotted;
 border:none;
-border-top: 5px dotted;
-width:3%;
+border-bottom: 5px dotted;
+width:4%;
 color: lightgrey;
 margin:100px auto 100px auto;
 }
